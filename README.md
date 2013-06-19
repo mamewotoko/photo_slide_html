@@ -10,12 +10,12 @@ open html/step.html or html/jump.html using web browser.
 Files
 -----
 
-  html
-   +--+- nivo-slider: jQuery library
-      +- js: jQuery library
-      +- images: theme files copied from nivo-slider
-      +- step.html: a sample html
-      +- jump.html: another sample html
+    html
+     +--+- nivo-slider: jQuery library
+        +- js: jQuery library
+        +- images: theme files copied from nivo-slider
+        +- step.html: a sample html
+        +- jump.html: another sample html
 
 References
 ----------
